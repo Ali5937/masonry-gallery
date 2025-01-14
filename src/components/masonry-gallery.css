@@ -1,0 +1,12 @@
+.masonry-gallery {
+  position: relative;
+}
+
+.masonry-gallery > div {
+  position: absolute;
+  width: 200px;
+}
+
+.masonry-gallery img {
+  width: 100%;
+}
